@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  background-color: #66bfbf;
+
+  display: flex;
+  justify-content: flex-end;
+}
+.items {
+  color: #fff;
+  font-size: 1.1875rem;
+  padding: 0.9rem;
+  margin: 0.625rem;
+  border-radius: 5px;
+}
+.items-5 {
+  align-tracks: right;
+  background-color: #11999e;
+}
